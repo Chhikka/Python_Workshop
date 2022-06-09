@@ -13,20 +13,20 @@ I recently purchased the first edition of the Python workshop and as a beginner 
 - **Chapter 2: Python Structures**
     - lists, matrices, dictionaries, tuples, sets
 - **Chapter 3: Executing Programs, Algorithms and Functions**
-    - scripts, modules, time complexity, bubble sort, binary search, iterative/recursive/dynamic programming algorithms, helper and lambda functions   
+    - scripts, basic/iterative/recursive/helper and lambda functions,various,scope and dynamic programming, time complexity, bubble sort, binary search.
 - **Chapter 4: Extending Python Files, Errors and Graphss**
-    - scripts, modules, time complexity, bubble sort, binary search, iterative/recursive/dynamic programming algorithms, helper and lambda functions 
+    - read and writing files, debugging, plotting techniques 
 - **Chapter 5: Constructing Python - Classes and methods**
-    - scripts, modules, time complexity, bubble sort, binary search, iterative/recursive/dynamic programming algorithms, helper and lambda functions 
+    - classes, methods, properties, inheritance 
 - **Chapter 6: The standing Library**
     - scripts, modules, time complexity, bubble sort, binary search, iterative/recursive/dynamic programming algorithms, helper and lambda functions 
 - **Chapter 7: Becoming Pythonic**
-    - scripts, modules, time complexity, bubble sort, binary search, iterative/recursive/dynamic programming algorithms, helper and lambda functions 
+    - lists comprehension, set and dictionary comprehension 
 - **Chapter 8: Software development**
-    - scripts, modules, time complexity, bubble sort, binary search, iterative/recursive/dynamic programming algorithms, helper and lambda functions 
+    - Debugging, automated testing, creating a pip package, creating documentation 
 - **Chapter 9: Practical Python-Advanced topics**
-    - scripts, modules, time complexity, bubble sort, binary search, iterative/recursive/dynamic programming algorithms, helper and lambda functions 
+    - 
 - **Chapter 10: Data Analytics with Pandas and Numpy**
-    - scripts, modules, time complexity, bubble sort, binary search, iterative/recursive/dynamic programming algorithms, helper and lambda functions  
+    - 
 - **Chapter 11: Machine learning**
-    - scripts, modules, time complexity, bubble sort, binary search, iterative/recursive/dynamic programming algorithms, helper and lambda functions 
+    - 
