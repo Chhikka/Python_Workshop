@@ -25,8 +25,8 @@ I recently purchased the first edition of the Python workshop and as a beginner 
 - **Chapter 8: Software development**
     - Debugging, automated testing, creating a pip package, creating documentation 
 - **Chapter 9: Practical Python-Advanced topics**
-    - 
+   
 - **Chapter 10: Data Analytics with Pandas and Numpy**
-    - 
+    
 - **Chapter 11: Machine learning**
-    - 
+    
